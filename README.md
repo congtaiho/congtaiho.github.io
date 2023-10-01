@@ -3,7 +3,7 @@
 
 :star: Star me on GitHub — it helps!
 
-<video src="video/Portfolio Cong Tai Ho.webm" width="640" height="360" controls></video>
+<video src="../congtaiho.github.io/video/Portfolio Cong Tai Ho.webm" width="640" height="360" controls></video>
 
 
 ### Website Preview
