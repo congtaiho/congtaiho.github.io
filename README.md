@@ -3,12 +3,11 @@
 
 :star: Star me on GitHub — it helps!
 
-<video src="https://congtaiho.github.io/video/test.mp4" width="640" height="360" controls></video>
 
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+<img src="images/Portfolio Cong Tai Ho.gif" width="900">
 
 
 #### About Page
